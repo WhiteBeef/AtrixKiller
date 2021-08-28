@@ -1,0 +1,6 @@
+name: AtrixKiller
+version: '${project.version}'
+main: ru.whitebeef.atrixkiller.AtrixKiller
+api-version: 1.17
+authors: [ _WhiteBeef_ ]
+description: Killing atrix
